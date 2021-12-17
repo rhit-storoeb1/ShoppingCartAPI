@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<codes>
+    <code code="abcd1234" expirationDate="2021-12-20" percentage="0.1"/>
+    <code code="zyxw987" expirationDate="2021-12-23" percentage="0.2"/>
+</codes>

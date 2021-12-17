@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+    <item description="just a can of beans" id="0" name="beans" numInStock="7" pictureURL="www.google.com/beans.png" price="2.99"/>
+    <item description="half a gallon of milk" id="1" name="milk" numInStock="3" pictureURL="www.google.com/milk.png" price="3.99"/>
+    <item description="three apples" id="2" name="apples" numInStock="2" pictureURL="www.google.com/apples.png" price="1.99"/>
+</items>

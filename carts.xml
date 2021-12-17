@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<carts>
+    <cart id="0" size="1" state="IL" totalPrice="2.93">
+        <discountCodes>
+            <code code="abcd1234" expirationDate="2021-12-20" percentage="0.1"/>
+        </discountCodes>
+        <items>
+            <entry>
+                <key description="just a can of beans" id="0" name="beans" numInStock="7" pictureURL="www.google.com/beans.png" price="2.99"/>
+                <value>1</value>
+            </entry>
+        </items>
+    </cart>
+</carts>
